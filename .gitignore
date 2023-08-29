@@ -1,1 +1,5 @@
 node_modules/
+z*
+# exe ファイルは要らない
+.env
+artifacts/
